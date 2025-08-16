@@ -1,5 +1,5 @@
 {
-  "name": "Go 1.21",
+  "name": "Go 1.23",
   // official list of images:
   // https://github.com/devcontainers/images
   "image": "mcr.microsoft.com/devcontainers/base:debian",
@@ -18,7 +18,7 @@
       "upgradePackages": "false"
     },
     "ghcr.io/devcontainers/features/go:1": {
-      "version": "1.21.13",
+      "version": "1.23.12",
       "golangciLintVersion": "1.54.2"
     },
     "ghcr.io/devcontainers/features/github-cli:1": {
