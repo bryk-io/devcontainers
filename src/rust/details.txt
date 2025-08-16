@@ -1,2 +1,2 @@
 image=devcontainer-rust
-tags=1.76.0
+tags=1.89.0
