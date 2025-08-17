@@ -11,7 +11,7 @@ do
   # build image
   echo "building: ${img}:${tag}"
   devcontainer build \
-  --workspace-folder src/rust \
+  --workspace-folder ${src} \
   --image-name ${img}:${tag} \
   --push false
   docker push ${img}:${tag}
