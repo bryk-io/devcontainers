@@ -46,14 +46,9 @@
     "vscode": {
       "settings": {
         "go.useLanguageServer": true,
-        "go.gopath": "/go",
-        "protoc": {
-          "options": [ "--proto_path=${workspaceRoot}/proto" ]
-        }
+        "go.gopath": "/go"
       },
       "extensions": [
-        "rangav.vscode-thunder-client",
-        "spmeesseman.vscode-taskexplorer",
         "hbenl.vscode-test-explorer"
       ]
     }
