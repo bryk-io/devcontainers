@@ -1,2 +1,2 @@
 image=devcontainer-go
-tags=1.24.6
+tags=1.24.13

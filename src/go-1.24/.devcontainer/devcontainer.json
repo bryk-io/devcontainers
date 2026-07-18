@@ -18,7 +18,7 @@
       "upgradePackages": "false"
     },
     "ghcr.io/devcontainers/features/go:1": {
-      "version": "1.24.6",
+      "version": "1.24.13",
       "golangciLintVersion": "2.4.0"
     },
     "ghcr.io/devcontainers/features/github-cli:1": {

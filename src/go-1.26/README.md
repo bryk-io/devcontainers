@@ -5,7 +5,7 @@ To build and publish this custom image:
 ```bash
 devcontainer build \
 --workspace-folder src/go-1.26 \
---image-name ghcr.io/bryk-io/devcontainer-go:1.26.3 \
+--image-name ghcr.io/bryk-io/devcontainer-go:1.26.5 \
 --push false
 ```
 

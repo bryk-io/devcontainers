@@ -18,7 +18,7 @@
       "upgradePackages": "false"
     },
     "ghcr.io/devcontainers/features/go:1": {
-      "version": "1.26.3",
+      "version": "1.26.5",
       "golangciLintVersion": "2.12.0"
     },
     "ghcr.io/devcontainers/features/github-cli:1": {
@@ -30,9 +30,9 @@
       "minikube": "none"
     },
     // custom features
-    "ghcr.io/bryk-io/devcontainers-features/buf:1.69.0": { },
+    "ghcr.io/bryk-io/devcontainers-features/buf:1.72.0": { },
     "ghcr.io/bryk-io/devcontainers-features/live-share:1": { },
-    "ghcr.io/bryk-io/devcontainers-features/gqlgen:0.17.89": { },
+    "ghcr.io/bryk-io/devcontainers-features/gqlgen:0.17.94": { },
     "ghcr.io/bryk-io/devcontainers-features/gqlgenc:0.33.0": { }
     // "ghcr.io/devcontainers/features/docker-in-docker:1": {
     //     "version": "latest",
